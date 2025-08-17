@@ -11,10 +11,7 @@ It integrates **Twilio WhatsApp API** with a **Flask backend** that connects to 
 - Compatible with Twilio Sandbox & production numbers
 
 ## Contents
-- `qwen_api[whatsapp_bot.py](https://github.com/user-attachments/files/21824543/whatsapp_bot.py)
-[qwen_api.py](https://github.com/user-attachments/files/21824542/qwen_api.py)
-[Process Document.pdf](https://github.com/user-attachments/files/21824541/Process.Document.pdf)
-.py` → Flask app connecting Twilio WhatsApp to Qwen2.5  
+- `qwen_api.py` → Flask app connecting Twilio WhatsApp to Qwen2.5  
 - `whatsapp_bot.py` → API wrapper for Qwen2.5 model running locally  
 - `process_document.pdf` → Reference documents  
 
