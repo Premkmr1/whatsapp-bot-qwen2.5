@@ -24,4 +24,4 @@ Follow the step-by-step instructions in the documentation to:
 ---
 
 Created as part of my YouTube channel **[Neural Bytes with Prem](https://youtube.com/@NeuralBytes-PKR)**  
-Check out the tutorial video here: [https://www.youtube.com/@NeuralBytes-PKR]
+Check out the tutorial video here: [[WhatsApp_BOT_Tutortial](https://www.youtube.com/watch?v=PA65LSLfSKE&t=29s)]
