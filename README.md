@@ -24,4 +24,4 @@ Follow the step-by-step instructions in the documentation to:
 ---
 
 Created as part of my YouTube channel **[Neural Bytes with Prem](https://youtube.com/@NeuralBytes-PKR)**  
-Check out the tutorial video here: [YouTube Video Link]
+Check out the tutorial video here: [https://www.youtube.com/@NeuralBytes-PKR]
